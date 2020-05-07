@@ -4,14 +4,13 @@ title: "Cyber Blogs"
 description: "This Blog is All about Cyber killing Tricks and someS stunning paid courses for free, just check this awesome blog to end."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "httpS://cyber-blogs.tech"
+baseurl: ""
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 email: 
 key: xbjzjwlp
-permalink: "/title"
 
 # Authors
 authors:
@@ -53,6 +52,7 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
+peginate_permalink: /page:num/
     
 # Other
 highlighter: 'rouge'
