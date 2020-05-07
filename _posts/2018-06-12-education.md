@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Education Is The Most Important thing"
-author: cyberkiller
+author: CyberKiller
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
 beforetoc: "This is about over education system, you need to read this."

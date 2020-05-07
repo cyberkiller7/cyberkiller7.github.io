@@ -1,0 +1,18 @@
+I"S<p>Review products, books, movies, restaurant and anything you like on your Jekyll blog with <strong>Memoirs</strong>! JSON-LD ready for review property.</p>
+
+<h4 id="how-to-use">How to use?</h4>
+
+<p>It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span>  <span class="s2">"</span><span class="s">Inception</span><span class="nv"> </span><span class="s">Movie"</span>
+<span class="na">author</span><span class="pi">:</span> <span class="s">john</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span> <span class="nv">Lifestyle</span> <span class="pi">]</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">red</span><span class="pi">,</span> <span class="nv">yellow</span><span class="pi">]</span>
+<span class="na">image</span><span class="pi">:</span> <span class="s">assets/images/11.jpg</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">My</span><span class="nv"> </span><span class="s">review</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">Inception</span><span class="nv"> </span><span class="s">movie.</span><span class="nv"> </span><span class="s">Actors,</span><span class="nv"> </span><span class="s">directing</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">more."</span>
+<span class="na">rating</span><span class="pi">:</span> <span class="m">4.5</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+:ET
