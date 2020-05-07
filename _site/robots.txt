@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/cyber-blogs/sitemap.xml
+Sitemap: http://localhost:4000/httpS://cyber-blogs.tech/sitemap.xml

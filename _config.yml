@@ -11,6 +11,7 @@ mailchimp-list: ''
 include: ["_pages"]
 email: 
 key: xbjzjwlp
+permalink: "/title"
 
 # Authors
 authors:
