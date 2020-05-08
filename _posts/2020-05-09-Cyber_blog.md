@@ -2,7 +2,7 @@
 layout: post
 title: The Cyber Blogs Information
 author: CyberKiller
-image: assets/images/15.jpg
+image: assets/images/18.jpg
 permalink: '/cyber-info/'
 ---
 
