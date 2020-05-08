@@ -5,12 +5,12 @@ description: "This Blog is All about Cyber killing Tricks and someS stunning pai
 logo: 'assets/images/logo3.png'
 favicon: 'assets/images/logo3.png'
 baseurl: ""
-google_analytics: ''
+google_analytics: 'UA-165983968-1'
 disqus: 'cyber-blogs'
-mailchimp-list: ''
+mailchimp-list: 'https://gmail.us18.list-manage.com/subscribe/post?u=1f403c5f2832ee1bd30728b22&amp;id=0fad4e8eb0'
 include: ["_pages"]
-email: 
-key: xbjzjwlp
+email: "cyberkiller@blogs.tech"
+key: xdowknlr
 
 # Authors
 authors:
@@ -18,7 +18,7 @@ authors:
     name: CyberKiller
     display_name: CyberKiller
     avatar: 'assets/images/avtar1.png'
-    email: 
+    email: "cyberkiller@blogs.tech"
     web: 
     twitter: 
     description: "A Part Time Blogger and web developer and a full time IT employee, For now trying to provide students some help."
