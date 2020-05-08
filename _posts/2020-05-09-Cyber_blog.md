@@ -3,7 +3,7 @@ layout: post
 title: The Cyber Blogs Information
 author: CyberKiller
 image: assets/images/15.jpg
-permalink: '/cyber-blogs/'
+permalink: '/cyber-info/'
 ---
 
 So this post will somewhere explain you what will this site do and help you in what ways. So let's start with introduction to our own cyber-blogs.
